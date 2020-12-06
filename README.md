@@ -1,6 +1,11 @@
 # Hi there 👋
 
-## Here are some ideas to get you started:
+### Technology stack 💻
+ - Django, DRF
+ - Docker, docker-compose
+ - PostgreSQL
+ - Gitlab CI
+ - Linux
 
 ### 🔭 I’m currently working on
  - IoTaaS web platform for designing & creating IoT products and turnkey solutions
@@ -15,4 +20,3 @@
  
 ### 👯 I’m looking to collaborate on
  - High-performance python frameworks
- 
