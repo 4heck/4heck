@@ -1,9 +1,9 @@
 # Hi there 👋
 
-### Technology stack 💻
- - Django, DRF
+### 💻 My technology stack
+ - Django, DRF, Swagger
  - Docker, docker-compose
- - PostgreSQL
+ - PostgreSQL, MongoDB
  - Gitlab CI
  - Linux
 
