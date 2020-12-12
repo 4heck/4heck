@@ -23,3 +23,4 @@
  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4heck&layout=compact)]()
 ![4heck's GitHub stats](https://github-readme-stats.vercel.app/api?username=4heck&show_icons=&private_count=true)
+[![4heck's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=4heck)](https://github.com/anuraghazra/github-readme-stats)
