@@ -21,4 +21,4 @@
 ### 👯 I’m looking to collaborate on
  - High-performance python frameworks
  
- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4heck&layout=compact)]()
