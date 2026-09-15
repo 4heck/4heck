@@ -63,9 +63,13 @@ I write and teach about:
 * Engineering leadership
 * Practical use of AI in development workflows
 
-Recent article:
+Recent articles:
 
-[Building a living infrastructure map with AI agents](https://habr.com/ru/companies/yandex_praktikum/articles/1027476/)
+* [How we packed an apartment's geometry into a plain PNG](https://mamleev.tech/writing/depth-map-png/) — a measuring ruler for path-traced tours, with no 3D scene in the browser · [full article on Habr (RU)](https://habr.com/ru/articles/1081340/)
+* [Releases no longer need developers. They need JSON Schema and Monaco](https://mamleev.tech/writing/json-schema-monaco/) — one configuration contract instead of a hundred client forks · [full article on Habr (RU)](https://habr.com/ru/articles/1078548/)
+* [Building a living infrastructure map with AI agents](https://mamleev.tech/writing/infrastructure-map/) — a single source of truth for a startup without DevOps · [full article on Habr (RU)](https://habr.com/ru/companies/yandex_praktikum/articles/1027476/)
+
+All writing: [mamleev.tech/writing](https://mamleev.tech/writing/)
 
 ## Links
 
